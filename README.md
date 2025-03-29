@@ -42,7 +42,7 @@ The dataset had 30 categories of products and over 22 million reviews in total. 
 
 
 ## RESULTS 
-The Fake Review Classifier achieves high (75%) confidence in classifying reviews as fake. The classifier is able to accurately identify fake reviews given the context of the product description. The sentence similarity between the generated summaries is evaluated by human evaluation of random samples from the data. It is observed that the products for which reviews are otherwise indicating than the product descriptions show low similarity and vice versa.<br><br>
+The Fake Review Classifier achieves high (75%) confidence in classifying reviews as fake. The classifier is able to accurately identify fake reviews given the context of the product description. The sentence similarity between the generated summaries is evaluated by human evaluation of random samples from the data. It is observed that the products for which reviews are in stark contrast to the product descriptions, show low similarity and vice versa.<br><br>
 
 
 ## CONCLUSION 
